@@ -1,6 +1,28 @@
 # Pranav-s_Portfolio
 
-# Analytics Portfoilo
+# Data engineering And Analytics Portfoilo
+
+# [Data_Engineering and automation - Project 1](https://github.com/Pranavprasanthan/data-engg.git)
+# Data engineering and automation on imported data from an API using Python V3.7, Docker and Pandas as an algorithm.
+
+Project structure:
+1  Creating a docker-compose.yml file to define the containers and services.
+2 Creating a requirements.txt file to specify the project dependencies.
+3  Implement the data ingestion pipeline:
+4  Creating a Python script to fetch data from the API.
+5  Processing the fetched data and extract the required fields (country, name, surname, gender).
+6  Storing the extracted data in a staging table in the PostgreSQL database.
+7  Implementing the data transformation and loading (ETL) process:
+8  Creating a Python script to transform the data from the staging table.
+9  Creating a production table in the PostgreSQL database.
+10  Loading the transformed data into the production table.
+11  Verifying the data in the database:
+12  Connect to the PostgreSQL database.
+13  Query the production table to ensure the data is available.
+14  Create unit tests to verify the functionality of the data ingestion and ETL processes.
+15  Dockerizing the application:
+16  Creating a Dockerfile for the Python application.
+17  Using Docker Compose to set up the containers and services.
 
 # [Data_profiling - Project 1](https://github.com/Pranavprasanthan/Data_profiling.git)
 # Data profiling and automation on imported data from the UK government website of different attributes concerning petroleum sectors is done using Python V3.7 and Pandas as an algorithm. 
