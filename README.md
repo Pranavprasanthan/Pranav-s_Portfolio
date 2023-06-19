@@ -2,7 +2,7 @@
 
 # Data engineering And Analytics Portfoilo
 
-# [Data_Engineering and automation - Project 1](https://github.com/Pranavprasanthan/data-engg.git)
+# [Data_Engineering and Automation - Project 1](https://github.com/Pranavprasanthan/data-engg.git)
 # Data engineering and automation on imported data from an API using Python V3.7, Docker and Pandas as an algorithm.
 
 Project structure:
@@ -24,7 +24,7 @@ Project structure:
 16  Creating a Dockerfile for the Python application.
 17  Using Docker Compose to set up the containers and services.
 
-# [Data_profiling - Project 1](https://github.com/Pranavprasanthan/Data_profiling.git)
+# [Data_profiling - Project 2](https://github.com/Pranavprasanthan/Data_profiling.git)
 # Data profiling and automation on imported data from the UK government website of different attributes concerning petroleum sectors is done using Python V3.7 and Pandas as an algorithm. 
 The data manupulation processs involves  the following: the data manupulation processs involves  the following:  
 1. A script that can check for new data, and if a new dataset is detected. Download the new Excel file.
@@ -41,7 +41,7 @@ consistent and well-structured format.
 lake.
 
 
-# [Market_share - Project 2](https://github.com/Pranavprasanthan/Market_share.git)
+# [Data visualisation - Project 3](https://github.com/Pranavprasanthan/Market_share.git)
 Job market share by various MNC's in india
 
 This project uses an online database to analyse, and visualise data regarding which key firms are thriving in India's data analytics industry and the market share of the Indian IT sector controlled by these organisations that was imported from "Kaggle."
