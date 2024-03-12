@@ -1,4 +1,5 @@
 # Pranav-s_Portfolio
+Welcome to my portfolio! I'm Pranav, and I specialize in data engineering and analytics. Below are some of the projects I've worked on:
 
 # Data engineering And Analytics Portfoilo
 
